@@ -1,4 +1,4 @@
-CREATE DATABASE newTODO
+``` CREATE DATABASE newTODO ```
 
 
 CREATE TABLE  project (
