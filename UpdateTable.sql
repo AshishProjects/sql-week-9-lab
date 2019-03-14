@@ -1,0 +1,1 @@
+UPDATE project SET projectDescription = "last month phone bill pending " WHERE projectId = '3';

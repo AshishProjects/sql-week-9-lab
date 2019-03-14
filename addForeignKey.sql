@@ -1,0 +1,1 @@
+ALTER TABLE todoItems ADD FOREIGN KEY (projectID) REFERENCES project(projectID);

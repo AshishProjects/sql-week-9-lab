@@ -1,0 +1,1 @@
+ALTER TABLE todoItems ADD INDEX project_index (todoitem);
